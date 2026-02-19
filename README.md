@@ -3,11 +3,7 @@
 Full-Stack Engineer with 7+ years of enterprise financial software experience, intentionally pivoting into AI Engineering. I build compliance systems used by 5,000+ financial advisors managing $218B+ in assets — and now applying that same engineering rigour to LLM orchestration and RAG pipelines.
 
 
----
-
 **AWS Certified Developer Associate**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -47,6 +43,7 @@ Full-Stack Engineer with 7+ years of enterprise financial software experience, i
 ## 💼 Currently
 
 - Angular Programmer Analyst II at Portfolio Aid Inc.
+- Building AI projects and prototypes to apply and deepen my learning
 - Open to **AI Engineering** and **Full-Stack AI** roles
 
 ---
