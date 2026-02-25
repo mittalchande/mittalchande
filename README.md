@@ -18,12 +18,12 @@ Full-Stack Engineer with 7+ years of enterprise financial software experience, i
 
 ## 🤖 AI Learning Path
 
-- Retrieval Augmented Generation (RAG) — DeepLearning.AI
-- Agentic AI Foundations — DeepLearning.AI
+- AI for Everyone — Coursera
 - Building AI-Powered Apps — Mosh Hamedani
 - Building Applications with ChatGPT API — Coursera
-- AI for Everyone — Coursera
 - Prompt Engineering — Various
+- Agentic AI Foundations — DeepLearning.AI
+- Retrieval Augmented Generation (RAG) — DeepLearning.AI
 
 ---
 
