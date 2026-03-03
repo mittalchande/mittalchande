@@ -40,6 +40,12 @@ Full-Stack Engineer with 7+ years of enterprise financial software experience, i
 
 ---
 
+### Multi-Agent Teaching Studio
+
+[View Project →](https://github.com/mittalchande/teaching-agents)
+
+---
+
 ## 💼 Currently
 
 - Angular Programmer Analyst II at Portfolio Aid Inc.
