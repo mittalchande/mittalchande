@@ -46,6 +46,11 @@ Full-Stack Engineer with 7+ years of enterprise financial software experience, i
 
 ---
 
+### CensusInsight AI — RAG-Powered Census Data Explorer
+[View Project →](https://github.com/mittalchande/census-query-engine)
+
+-------
+
 ## 💼 Currently
 
 - Angular Programmer Analyst II at Portfolio Aid Inc.
