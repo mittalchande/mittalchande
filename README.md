@@ -24,6 +24,7 @@ Full-Stack Engineer with 7+ years of enterprise financial software experience, i
 - Prompt Engineering — Various
 - Agentic AI Foundations — DeepLearning.AI
 - Retrieval Augmented Generation (RAG) — DeepLearning.AI
+- LangChain - DeepLearning.AI
 
 ---
 
