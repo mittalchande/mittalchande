@@ -1,4 +1,4 @@
-# Hi, I'm Mittal Chande 👋 ![](https://komarev.com/ghpvc/?username=mittalchande)
+# Hi, I'm Mittal Chande 👋 ![](https://komarev.com/ghpvc/?username=mittalchande&style=invisible)
 
 Experienced Full-Stack Engineer with a track record of architecting compliance systems managing $218B+ in assets(AUA), specializing in AI Engineering. Building Gen AI systems including Agentic RAG pipelines, multi-agent orchestration frameworks, and LLM-powered applications. AWS Certified Developer with hands-on experience in LLM orchestration and agentic system design
 
