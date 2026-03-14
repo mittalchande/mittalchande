@@ -1,6 +1,6 @@
 # Hi, I'm Mittal Chande 👋
 
-Experienced Full-Stack Engineer with a track record of architecting compliance systems managing $218B+ in assets(AUA), now specializing in AI Engineering. Building Gen AI systems including Agentic RAG pipelines, multi-agent orchestration frameworks, and LLM-powered applications. AWS Certified Developer with hands-on experience in LLM orchestration and agentic system design
+Experienced Full-Stack Engineer with a track record of architecting compliance systems managing $218B+ in assets(AUA), specializing in AI Engineering. Building Gen AI systems including Agentic RAG pipelines, multi-agent orchestration frameworks, and LLM-powered applications. AWS Certified Developer with hands-on experience in LLM orchestration and agentic system design
 
 
 **AWS Certified Developer Associate**
@@ -9,7 +9,7 @@ Experienced Full-Stack Engineer with a track record of architecting compliance s
 
 **Frontend:** Angular, TypeScript, JavaScript, React, HTML5, CSS3  
 **Backend:** Python, Node.js, Java (Spring Boot)  
-**AI & LLM:** RAG Pipelines, LLM Orchestration, Agentic Patterns, Prompt Engineering, OpenAI API, Multi-Agent Systems, LangChain   
+**AI & LLM:** RAG Pipelines, LLM Orchestration, Agentic Patterns, Prompt Engineering, OpenAI API, Multi-Agent Systems, LangChain, CrewAI, MCP   
 **Cloud & DevOps:** AWS (Lambda, S3, RDS, EC2), Docker(Basics), Jenkins, CI/CD  
 **Data:** SQL Server, PostgreSQL, MySQL,  ChromaDB (Vector DB)  
 **Domain:** Wealth Management, FinTech/RegTech  
